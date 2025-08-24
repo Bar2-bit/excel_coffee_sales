@@ -43,6 +43,7 @@ Created by Nancy Jerop Barmasai
 
 📸 Dashboard Screenshot
 
+<img width="1366" height="540" alt="copy dashboard" src="https://github.com/user-attachments/assets/dc473202-75c9-4644-b013-ee4c06476cbb" />
 
 
 
